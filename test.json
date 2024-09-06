@@ -1,0 +1,25 @@
+{
+    "message": {
+        "channel_chat_created": false,
+        "delete_chat_photo": false,
+        "group_chat_created": false,
+        "supergroup_chat_created": false,
+        "text": "fkmesl",
+        "chat": {
+            "first_name": "Mohamed",
+            "id": 5179923098,
+            "last_name": "Elhefnawy",
+            "type": "private"
+        },
+        "date": 1721422998,
+        "message_id": 95,
+        "from": {
+            "first_name": "Mohamed",
+            "id": 5179923098,
+            "is_bot": false,
+            "language_code": "en",
+            "last_name": "Elhefnawy"
+        }
+    },
+    "update_id": 796901538
+}
